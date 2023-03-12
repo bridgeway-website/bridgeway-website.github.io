@@ -1,0 +1,81 @@
+body {
+  padding: 50px;
+  font: 18px Cambria, Georgia, Times, 'Times New Roman', serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.center {
+  text-align: center;
+  justify-content: center;
+}
+
+.large-btns {
+  color:#354986
+}
+
+.navbar {
+  flex-direction: column;
+}
+
+div.a {
+  line-height: 200%;
+  color:dimgray;
+}
+
+.flex-container {
+  display: flex;
+  text-align: center;
+}
+
+p {
+  color:dimgray;
+  line-height: 200%;
+}
+
+h4{
+  color:#DF7630;
+}
+
+h3{
+  color:#DF7630;
+}
+
+h2{
+  color:#354986
+}
+
+.left {
+  float: left;
+  padding: 0 10px 0 0;
+}
+
+.map-responsive{
+
+  overflow:hidden;
+
+  padding-bottom:70%;
+
+  position:relative;
+
+  height:0;
+
+}
+
+.map-responsive iframe{
+
+  left:0;
+
+  top:0;
+
+  height:100%;
+
+  width:100%;
+
+  position:absolute;
+
+}
+
+
